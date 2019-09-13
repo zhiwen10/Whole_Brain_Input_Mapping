@@ -1,4 +1,4 @@
-# whole-brain-input-mapping
+# WholeBrainInputMapping
 
 # Data description:
 Mice brains were infected with monosynaptic tracing N2c rabies virus, targeting either V1 or PM layer5 neurons in the visual cortex. Starter cells were labeled with green GFP, while input cells were labeled with red mCherry. After perfusion, brains samples were harvested, embedded using 4-5% agarose gel in 0.1M PB, and imaged using serial two-photon tomography.
