@@ -1,6 +1,16 @@
-# WholeBrainInputMapping
+# Whole_Brain_Input_Mapping
 
-# Data description:
-Mice brains were infected with monosynaptic tracing N2c rabies virus, targeting either V1 or PM layer5 neurons in the visual cortex. Starter cells were labeled with green GFP, while input cells were labeled with red mCherry. After perfusion, brains samples were harvested, embedded using 4-5% agarose gel in 0.1M PB, and imaged using serial two-photon tomography.
+# Experiment description and cell detection pipeline in Rancz Lab.
 
-In general, 40 um physical sections were cut coronally, followed by imaging of 8 optical planes at the depth of every 5 um with 1.2 um x1.2 um resolution, without line averaging (around 12 hours to process one sample, generating 1TB data). Three channels were generated during the process, with red in channel 2, green in channel 3, blue autofluorescence in channel 4. Image tiles for each channel were stitched with Matlab script StitchIt (https://github.com/SainsburyWellcomeCentre/StitchIt).
+Detailed description of the experiment and cell detection pipeline.
+The full pipeline includes consecutive steps until cell coordinates are extracted and cell location in the brain area is identified.
+This document in wiki describes the protocol for the full pipeline in Rancz lab BigMac Linux machine.
+https://github.com/zhiwen10/Whole_Brain_Input_Mapping/wiki
+
+For full pipeline software access, please see link here, and contact Margrie Lab.
+https://github.com/orgs/SainsburyWellcomeCentre/teams/cell_counting_user/repositories
+
+For new version of cell detection pipeline, see link here.
+https://github.com/adamltyson/cellfinder
+
+
