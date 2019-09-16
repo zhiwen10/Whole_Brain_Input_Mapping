@@ -11,11 +11,11 @@ https://github.com/zhiwen10/Whole_Brain_Input_Mapping/wiki
 
 
 
-For full pipeline software access, please see link here, and contact Margrie Lab.
+For full pipeline software access, please see link here (private as of 16/Sep/2019), and contact Margrie Lab.
 
 https://github.com/orgs/SainsburyWellcomeCentre/teams/cell_counting_user/repositories
 
-For new version of cell detection pipeline, see link here.
+For new version of cell detection pipeline (private as of 16/Sep/2019), see link here.
 
 https://github.com/adamltyson/cellfinder
 
