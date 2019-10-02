@@ -14,7 +14,7 @@ data = readtable("ERABvsretro3_corrected.xlsx","sheet","retro");
 
 % save result tables to new folder
 str = pwd;
-save_folder = [str, '/new_list'];
+save_folder = [str, '/results'];
 mkdir(save_folder);
 cd(save_folder);
 
