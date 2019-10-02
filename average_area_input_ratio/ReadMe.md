@@ -28,7 +28,7 @@ Run "main.m" code in matlab.
 
 Results are saved in "results" folder, with tables and figures.
 
-Note "list.xlsx" file was created/sorted manually after "chart_plot_new.m" step, when area ratio >0.5% determines which areas shall be included in the list.
+Note: "list.xlsx" file was created/sorted manually after "chart_plot_new.m" step, when area ratio >0.5% determines which areas shall be included in the list.
 
 
 
