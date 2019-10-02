@@ -19,5 +19,16 @@ Area tables were then sorted based on area locations (proximal cortex, distal co
 
 Different experiments were then plotted in bar plot with error bars (standard deviation) and compared with t-ttest.
 
+## How to run the code?
+Download the folder and subfolder. included subfolders in matlab path.
+
+Input data are "ERABvsretro3_corrected.xlsx" and "ERAE_corrected.xlsx".
+
+Run "main.m" code in matlab.
+
+Results are saved in "results" folder, with tables and figures.
+
+Note "list.xlsx" file was created/sorted manually after "chart_plot_new.m" step, when area ratio >0.5% determines which areas shall be included in the list.
+
 
 
