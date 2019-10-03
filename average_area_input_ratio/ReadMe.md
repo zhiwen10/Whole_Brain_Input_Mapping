@@ -4,7 +4,7 @@
 
 ## What does this do?
 This is a collection of code to normalise cell count data and comapre between different experiments.
-(inputs to PM vs V1 pan-layer5 RBP4 neurons, or to slender-tufted (TLX) or thick-tufted (RETRO-LP) layer5 neruons).
+(inputs to PM vs V1 pan-layer5 RBP4 neurons, or to slender-tufted (TLX) vs thick-tufted (RETRO-LP) layer5 neruons).
 
 ## Steps:
 As structured in main.m file, first import cell count .xlsx files for all experiments.
